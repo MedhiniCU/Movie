@@ -1,4 +1,4 @@
-const apiKey = "REPLACE_WITH_YOUR_API_KEY"; // Replace with your OMDb API key
+const apiKey = "YOUR_OMDB_API_KEY";  // Replace with your OMDb API key
 
 async function searchMovie() {
     const movieName = document.getElementById("movieInput").value;
